@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(103, 146, 137);
+    color: rgb(7, 30, 34);
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#apresentaçao {
+    color: rgb(16, 71, 69);
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#cozinhar {
+    color:rgb(157, 141, 241) ;
+}
+#proativo {
+    color: rgb(184, 205, 248);
+}
+#criativo {
+    color: rgb(149, 242, 217);
+}
+#resiliente {
+    color: rgb(28, 254, 186);
+}
