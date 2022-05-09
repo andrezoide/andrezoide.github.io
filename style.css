@@ -3,6 +3,7 @@ body {
     color: rgb(7, 30, 34);
     font-family: 'Mukta', sans-serif;
 }
+
 h1 {
     font-size: 50px;
 }
@@ -27,4 +28,22 @@ h3 {
 }
 #resiliente {
     color: rgb(28, 254, 186);
+}
+
+.filmes-que-gosto {
+    margin: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.homem-aranha {
+    
+}
+
+.interestelar {
+    
+}
+
+.bastardos {
+    
 }
